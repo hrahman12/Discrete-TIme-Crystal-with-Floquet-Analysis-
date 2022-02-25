@@ -1,3 +1,8 @@
 Floquet Analysis
 Quantum Computer as a 'Time Crystal' 
 Based on Google Paper: https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.2.030346 
+
+
+The time crystal is a new category of phases of matter, expanding the definition of what a phase is. All other known phases, like water or ice, are in thermal equilibrium: Their constituent atoms have settled into the state with the lowest energy permitted by the ambient temperature, and their properties don’t change with time. The time crystal is the first “out-of-equilibrium” phase: It has order and perfect stability despite being in an excited and evolving state.
+
+Google’s time crystal may meet the definition of such a system closer than any other. The team used 20 qubits to represent a data chain of random particle spins — a type of magnetic angular momentum found on the quantum scale. Using interference between the particles to effectively “freeze” them in place, the researchers saw that the qubits simultaneously reversed their spin in unison and then return back to their original configuration. The qubits repeated this configuration switching, representing what the team says is a true time-crystal. As for what this means for quantum computing, the ironic thing about such systems is that it has long been proposed that quantum computers could be the only way to model a quantum system that is comprised of many particles. This work appears to be the first demonstration of that ability. Time crystals could also be of practical use for quantum computers increasing reliability and accuracy. Because of their delicate stability, time crystals could also be used as an accurate measurement tool used to probe electrical and magnetic external fields. 
